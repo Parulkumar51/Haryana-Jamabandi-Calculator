@@ -1,0 +1,5 @@
+{
+  "name": "Haryana Jamabandi Calculator",
+  "description": "A React application for calculating land shares based on Kanal/Marla units, performing Kanal/Marla arithmetic, and fraction arithmetic, styled with Tailwind CSS.",
+  "requestFramePermissions": []
+}
